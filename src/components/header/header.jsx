@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <header className="header">
       <nav className="nav container">
-        <a href="index.html" className="nav_logo">
+        <a href="#index.html" className="nav_logo">
           Lima
         </a>
  
@@ -26,7 +26,7 @@ const Header = () => {
             </li>
 
             <li className="nav_item">
-              <a href="skills" className="nav_link">
+              <a href="#skills" className="nav_link">
                 <i className="uil uil-file-alt nav_icon"></i> Skills
               </a>
             </li>
@@ -44,7 +44,7 @@ const Header = () => {
             </li>
 
             <li className="nav_item">
-              <a href="#Contact" className="nav_link">
+              <a href="#contact" className="nav_link">
                 <i className="uil uil-message nav_icon"></i> Contact
               </a>
             </li>
