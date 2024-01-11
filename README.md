@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Meu Portifolio Pessoal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Descrição:
+O [Levid Lima Portfolio Website](https://levidlimawebportfolio.vercel.app/) é um website pessoal desenvolvido para apresentar de forma elegante e interativa os trabalhos, habilidades e conquistas. Este projeto foi construído utilizando as tecnologias modernas de desenvolvimento web, incluindo JavaScript, CSS e HTML, com a poderosa biblioteca ReactJS.
 
-## Available Scripts
+![image](https://github.com/DEVLevid/my-portfolio/assets/120687641/89c2dcd9-2afc-43c0-8b31-18e189bfb80d)
 
-In the project directory, you can run:
 
-### `npm start`
+### Recursos Destacados:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Portfólio Visualmente Atraente: Uma galeria interativa exibe os projetos mais relevantes, proporcionando uma visão detalhada dos trabalhos desenvolvidos.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Seção de Habilidades Dinâmica: Utilizando animações e efeitos visuais, a seção de habilidades destaca as minhas competências técnicas, proporcionando uma experiência envolvente aos visitantes.
 
-### `npm test`
+- Experiência de Usuário Responsiva: O projeto foi desenvolvido com um design responsivo, garantindo uma experiência consistente e agradável em dispositivos de diferentes tamanhos, como desktops, tablets e smartphones.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Página de Conquistas e Reconhecimentos: Uma seção dedicada destaca as conquistas e reconhecimentos mais significativos ao longo da carreira, proporcionando um contexto valioso sobre suas realizações profissionais.
 
-### `npm run build`
+- Layout Moderno e Intuitivo: O design limpo e moderno do website oferece uma navegação intuitiva, permitindo que os visitantes explorem facilmente o conteúdo.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tecnologias Utilizadas:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- ReactJS: A biblioteca React foi escolhida para criar uma interface de usuário dinâmica e eficiente, facilitando a construção de componentes reutilizáveis.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- JavaScript, CSS e HTML: Essas tecnologias fundamentais foram utilizadas para criar uma base sólida, garantindo um código bem estruturado e um design visualmente atraente.
 
-### `npm run eject`
+### Instruções de Instalação e Uso:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* Clone o repositório para sua máquina local.
+* Navegue até o diretório do projeto.
+* Execute npm install para instalar as dependências.
+* Execute npm start para iniciar o servidor de desenvolvimento.
+* Acesse o website através do navegador no endereço local fornecido.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
