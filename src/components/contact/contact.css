@@ -136,4 +136,10 @@
   .contact_form {
     width: 100%;
   }
+
+  .contact_form.butto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
