@@ -5,7 +5,8 @@ const Data = () => {
     <div className="home_data">
       <h1 className="home_title">
         Levid Lima
-        <svg className="home_hand"
+        <svg
+          className="home_hand"
           width="36"
           height="36"
           viewBox="0 0 48 48"
@@ -55,10 +56,11 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home_subtitle">Web Developer</h3>
+      <h3 className="home_subtitle">Desenvolvedor Frontend</h3>
       <p className="home_description">
-        Hi there, my name is Levid, a Web developer passionate about technology
-        and changing people's lives through programming.
+        Olá, sou Levid, desenvolvedor frontend e estudante de sistemas de
+        informação apaixonado por tecnologia e por mudar a vida das pessoas
+        atravéz da programação.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello
