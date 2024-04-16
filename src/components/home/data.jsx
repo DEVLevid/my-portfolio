@@ -63,7 +63,7 @@ const Data = () => {
         atravéz da programação.
       </p>
       <a href="#contact" className="button button--flex">
-        Say Hello
+        Entre em contato
         <svg
           class="button_icon"
           xmlns="http://www.w3.org/2000/svg"
