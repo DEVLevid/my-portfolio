@@ -10,7 +10,7 @@ const Footer = () => {
         <ul className="footer_list">
           <li>
             <a href="#about" className="footer_link">
-              Soobre mim
+              Sobre mim
             </a>
           </li>
 
