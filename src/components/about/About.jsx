@@ -7,8 +7,8 @@ import Info from "./info";
 function About() {
   return (
     <section className="about section" id="about">
-      <h2 className="section_title">About Me</h2>
-      <span className="section_subtitle">My Introduction</span>
+      <h2 className="section_title">Sobre mim</h2>
+      <span className="section_subtitle">Apresentação</span>
 
       <div className="about_container container grid">
         <img src={AboutImg} alt="" className="about_img" />
@@ -17,13 +17,13 @@ function About() {
           <Info />
 
           <p className="about_description">
-            Frontend developer passionate about technology and changing people's
-            lives through programming, I create web pages with UI / UX user
-            interface.
+            Desenvolvedor Frontend Apaixonado por tecnologia e por mudar a vida
+            das pessoas atravéz da programação, Construo sites utilizando os
+            princípios UI/UX voltado para o usuário.
           </p>
 
           <a download="" href={CV} className="button button--flex">
-            Download CV
+            Baixe meu cv
             <svg
               class="button__icon"
               xmlns="http://www.w3.org/2000/svg"

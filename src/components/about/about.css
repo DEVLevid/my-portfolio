@@ -43,6 +43,11 @@
   margin-bottom: var(--mb-0-5);
 }
 
+.button__icon{
+ margin-left: 1rem;
+}
+
+
 @media screen and (max-width: 992px) {
   .about_container {
     grid-template-columns: 1fr;
