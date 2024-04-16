@@ -8,20 +8,20 @@ export const Data = [
     image: Image3,
     title: "Carlos Eduardo",
     description:
-      "Fantastic work! Every aspect of the project was carefully executed, and the outcomes were truly satisfying. Appreciate the thorough attention to detail. Well done!",
+    "Trabalho fantástico! Todos os aspectos do projeto foram cuidadosamente executados, e os resultados foram realmente satisfatórios. Agradeço a atenção minuciosa aos detalhes. Parabéns!",
   },
   {
     id: 3,
     image: Image2,
     title: "Vinicius Alves",
     description:
-      "Great job! The entire project was meticulously handled, with each step followed closely, and the results were impressive. Thank you for the excellent work!",
+      "Ótimo trabalho! O projeto inteiro foi meticulosamente conduzido, com cada passo seguido de perto, e os resultados foram impressionantes. Obrigado pelo excelente trabalho!",
   },
   {
     id: 2,
     image: Image1,
     title: "Felipe Quentino",
     description:
-      "A really good job, all aspects of the project were followed step by step and whith good results.",
+      "Um trabalho realmente bom, todos os aspectos do projeto foram seguidos passo a passo e com bons resultados.",
   },
 ];

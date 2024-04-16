@@ -20,12 +20,12 @@ const Contact = () => {
   };
   return (
     <section className="contact section" id="contact">
-      <h2 className="section_title">Get in touch</h2>
-      <span className="section_subtitle">Contact Me</span>
+      <h2 className="section_title">Com um click</h2>
+      <span className="section_subtitle">Mande uma mensagem</span>
 
       <div className="contact_container container grid">
         <div className="contact_content">
-          <h3 className="contact_title">Talk to me</h3>
+          <h3 className="contact_title">Fale comigo!</h3>
 
           <div className="contact_info">
             <div className="contact_card">
@@ -35,7 +35,7 @@ const Contact = () => {
               <span className="contact_card-data">levidlima70@gmail.com</span>
 
               <a href="mailto:levidlima70@gmail.com" className="contact_button">
-                Write me
+                Mande um oi
                 <i className="bx bx-right-arrow-alt contact_button-icon"></i>
               </a>
             </div>
@@ -47,7 +47,7 @@ const Contact = () => {
               <span className="contact_card-data">+55 (82) 9 9820-5448</span>
 
               <a href="https://wa.me/5582998205448" className="contact_button">
-                Write me
+                Mande um oi
                 <i className="bx bx-right-arrow-alt contact_button-icon"></i>
               </a>
             </div>
@@ -62,7 +62,7 @@ const Contact = () => {
                 href="https://www.instagram.com/levidlima/"
                 className="contact_button"
               >
-                Write me
+                Mande um oi
                 <i className="bx bx-right-arrow-alt contact_button-icon"></i>
               </a>
             </div>
@@ -70,18 +70,18 @@ const Contact = () => {
         </div>
 
         <div className="contact_content">
-          <h3 className="contact_title">Write me your project</h3>
+          <h3 className="contact_title">Qual a sua ideia ?</h3>
 
           <form ref={form} onSubmit={sendEmail} className="contact_form">
             <div className="contact_form-div">
               <label htmlFor="" className="contact_form-tag">
-                Name
+                Nome
               </label>
               <input
                 type="text"
                 name="name"
                 className="contact_form-input"
-                placeholder="Insert Your Name"
+                placeholder="Insira seu nome"
               />
             </div>
 
@@ -93,25 +93,25 @@ const Contact = () => {
                 type="email"
                 name="email"
                 className="contact_form-input"
-                placeholder="Insert Your Email"
+                placeholder="Isira seu Email"
               />
             </div>
 
             <div className="contact_form-div contact_form-area">
               <label htmlFor="" className="contact_form-tag">
-                Name
+                Nome
               </label>
               <textarea
                 name="project"
                 cols="30"
                 rows="10"
                 className="contact_form-input"
-                placeholder="Write your project"
+                placeholder="Descreva sua ideia ou sua proposta."
               ></textarea>
             </div>
 
             <button className="button button--flex">
-              Send Message
+              Enviar
               <svg
                 class="button_icon"
                 xmlns="http://www.w3.org/2000/svg"

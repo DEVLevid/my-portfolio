@@ -10,31 +10,31 @@ const Footer = () => {
         <ul className="footer_list">
           <li>
             <a href="#about" className="footer_link">
-              About
+              Soobre mim
             </a>
           </li>
 
           <li>
             <a href="#skills" className="footer_link">
-              Skills
+              Habilidades
             </a>
           </li>
 
           <li>
             <a href="#services" className="footer_link">
-              Services
+            Serviços
             </a>
           </li>
 
           <li>
             <a href="#porfolio" className="footer_link">
-              Projects
+            Experiência
             </a>
           </li>
 
           <li>
             <a href="#contact" className="footer_link">
-              Contact
+              Contato
             </a>
           </li>
         </ul>

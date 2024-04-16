@@ -10,8 +10,8 @@ const Services = () => {
 
   return (
     <section className="services" id="services">
-      <h2 className="section_title">Services</h2>
-      <span className="section_subtitle">What i offer</span>
+      <h2 className="section_title">Serviços</h2>
+      <span className="section_subtitle">O que posso te oferecer?</span>
 
       <div className="services_container container grid">
         <div className="services_content">
@@ -23,7 +23,7 @@ const Services = () => {
           </div>
 
           <span className="services_button" onClick={() => setToggleState(1)}>
-            View More
+            Ver mais
             <i className="uil uil-arrow-right services_button-icon"></i>
           </span>
           <div
@@ -41,40 +41,40 @@ const Services = () => {
 
               <h3 className="services_modal-title">Product Designer</h3>
               <p className="services_modal-description">
-                Providing quality work to client and companies.
+                Promovo um trabalho de qualidade para os meus clientes.
               </p>
 
               <ul className="services_modal-services grid">
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    I develop the user Interface.
+                    Desenvolvo a interface do produto.
                   </p>
                 </li>
 
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
-                  <p className="services_modal-info"> Web page development.</p>
+                  <p className="services_modal-info"> Desenvolvo de forma interativa e responsiva.</p>
                 </li>
 
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    I create ux element interactions.
-                  </p>
-                </li>
-
-                <li className="services_modal-service">
-                  <i className="uil uil-check-circle services_modal-icon"></i>
-                  <p className="services_modal-info">
-                    I position your company brand.
+                    Crio elementos interativos com base na experiência do usuário.
                   </p>
                 </li>
 
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    Design and mockups of products for companies.
+                    Trago qualidade de produto e agilidade de entrega.
+                  </p>
+                </li>
+
+                <li className="services_modal-service">
+                  <i className="uil uil-check-circle services_modal-icon"></i>
+                  <p className="services_modal-info">
+                    Design e mockups para produtos de companias.
                   </p>
                 </li>
               </ul>
@@ -91,7 +91,7 @@ const Services = () => {
           </div>
 
           <span className="services_button" onClick={() => setToggleState(2)}>
-            View More
+            Ver mais
             <i className="uil uil-arrow-right services_button-icon"></i>
           </span>
           <div
@@ -109,40 +109,40 @@ const Services = () => {
 
               <h3 className="services_modal-title">UI/UX Designer</h3>
               <p className="services_modal-description">
-                Providing quality work to client and companies.
+                Qualidade de entrega.
               </p>
 
               <ul className="services_modal-services grid">
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    I develop the user Interface.
+                    Desenvolvo baseado nos princípios de UI/UX seguindo a padronização.
                   </p>
                 </li>
 
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
-                  <p className="services_modal-info"> Web page development.</p>
+                  <p className="services_modal-info"> Web page development focado na experiência do usuário.</p>
                 </li>
 
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    I create ux element interactions.
-                  </p>
-                </li>
-
-                <li className="services_modal-service">
-                  <i className="uil uil-check-circle services_modal-icon"></i>
-                  <p className="services_modal-info">
-                    I position your company brand.
+                    Trago responsividade para as aplicações.
                   </p>
                 </li>
 
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    Design and mockups of products for companies.
+                    Alavanco o acesso da sua empresa.
+                  </p>
+                </li>
+
+                <li className="services_modal-service">
+                  <i className="uil uil-check-circle services_modal-icon"></i>
+                  <p className="services_modal-info">
+                    Agilidade na entrega e garantia de qualidade.
                   </p>
                 </li>
               </ul>
@@ -159,7 +159,7 @@ const Services = () => {
           </div>
 
           <span className="services_button" onClick={() => setToggleState(3)}>
-            View More
+            Ver Mais
             <i className="uil uil-arrow-right services_button-icon"></i>
           </span>
           <div
@@ -177,40 +177,40 @@ const Services = () => {
 
               <h3 className="services_modal-title">Visual Designer</h3>
               <p className="services_modal-description">
-                Providing quality work to client and companies.
+                Qualidade e ideias inovadoras.
               </p>
 
               <ul className="services_modal-services grid">
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    I develop the user Interface.
+                    Trago impacto visual.
                   </p>
                 </li>
 
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
-                  <p className="services_modal-info"> Web page development.</p>
+                  <p className="services_modal-info"> Usabilidade adequada e adaptada.</p>
                 </li>
 
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    I create ux element interactions.
-                  </p>
-                </li>
-
-                <li className="services_modal-service">
-                  <i className="uil uil-check-circle services_modal-icon"></i>
-                  <p className="services_modal-info">
-                    I position your company brand.
+                  Consistência Visual.
                   </p>
                 </li>
 
                 <li className="services_modal-service">
                   <i className="uil uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    Design and mockups of products for companies.
+                  Emoção e Conexão.
+                  </p>
+                </li>
+
+                <li className="services_modal-service">
+                  <i className="uil uil-check-circle services_modal-icon"></i>
+                  <p className="services_modal-info">
+                  Diferenciação Competitiva.
                   </p>
                 </li>
               </ul>

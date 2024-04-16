@@ -8,9 +8,9 @@ const Qualification = () => {
     setToggleState(index);
   };
   return (
-    <section className="qualification section">
-      <h2 className="section_title">Qualification</h2>
-      <span className="section_subtitle">My personel journey</span>
+    <section className="qualification section" id="qualification">
+      <h2 className="section_title">Qualificação</h2>
+      <span className="section_subtitle">Minha Jornada Pessoal</span>
 
       <div className="qualification_container container">
         <div className="qualification_tabs">
@@ -23,7 +23,7 @@ const Qualification = () => {
             onClick={() => toggleTab(1)}
           >
             <i className="uil uil-graduation-cap qualification_icon"></i>
-            Education
+            Educação
           </div>
 
           <div
@@ -35,7 +35,7 @@ const Qualification = () => {
             onClick={() => toggleTab(2)}
           >
             <i className="uil uil-briefcase-alt qualification_active qualification_icon"></i>
-            Experience
+            Experiência
           </div>
         </div>
 
@@ -49,7 +49,9 @@ const Qualification = () => {
           >
             <div className="qualification_data">
               <div>
-                <h3 className="qualification_title">Web Development</h3>
+                <h3 className="qualification_title">
+                  Web Development Bootcamp
+                </h3>
                 <span className="qualification_subtitle">Udemy</span>
                 <div className="qualification_calendar">
                   <i className="uil uil-calendar-alt"></i> 2022 - 2023
@@ -69,24 +71,51 @@ const Qualification = () => {
                 <span className="qualification_line"></span>
               </div>
               <div>
+                <h3 className="qualification_title">Desenvolvedor Frontend</h3>
+                <span className="qualification_subtitle">
+                Nucleo de Desenvolvimento e Inovação Tecnológica - DIT
+                </span>
+                <div className="qualification_calendar">
+                  <i className="uil uil-calendar-alt"></i> 2023 - Atualmente
+                </div>
+              </div>
+            </div>
+
+            <div className="qualification_data">
+              <div></div>
+              <div>
+                <span className="qualification_line"></span>
+              </div>
+              <div>
+                
+              </div>
+            </div>
+
+            <div className="qualification_data">
+              <div></div>
+              <div>
+                <span className="qualification_rounder"></span>
+                <span className="qualification_line"></span>
+              </div>
+              <div>
                 <h3 className="qualification_title">UX expert</h3>
                 <span className="qualification_subtitle">
                   Nucleo de Desenvolvimento e Inovação Tecnológica - DIT
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023 - Atualmente
                 </div>
               </div>
             </div>
 
             <div className="qualification_data">
               <div>
-                <h3 className="qualification_title">Information Systems</h3>
+                <h3 className="qualification_title">Sistemas de informação</h3>
                 <span className="qualification_subtitle">
                   Instituto Federal de Alagoas - IFAL
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023 - Atualmente
                 </div>
               </div>
 
@@ -108,7 +137,7 @@ const Qualification = () => {
                   Instituto Federal de Alagoas - IFAL
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023 - Atualmente
                 </div>
               </div>
             </div>
@@ -128,7 +157,7 @@ const Qualification = () => {
                   Nucleo de Desenvolvimento e Inovação Tecnológica - DIT
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023 - Atualmente
                 </div>
               </div>
 
@@ -150,7 +179,7 @@ const Qualification = () => {
                   Nucleo de Desenvolvimento e Inovação Tecnológica - DIT
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023 - Atualmente
                 </div>
               </div>
             </div>
@@ -167,7 +196,7 @@ const Qualification = () => {
                   Instituto Federal de Alagoas - IFAL
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023 - Atualmente
                 </div>
               </div>
             </div>
