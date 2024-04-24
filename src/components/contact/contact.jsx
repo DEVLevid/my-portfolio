@@ -1,9 +1,16 @@
 import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import "./contact.css";
+import { ToastContainer, toast } from "react-toastify";
+import 'react-toastify/dist/ReactToastify.css';
 
 const Contact = () => {
   const form = useRef();
+  const toastify = () => {
+    toast.success('Mensagem enviada com sucesso!', {
+      theme: 'dark'
+    })
+  }
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -16,7 +23,7 @@ const Contact = () => {
         "LGR-PTheaEtY-g2KA"
       )
       e.target.reset()
-      alert("tank's for the message !")
+      toastify()
   };
   return (
     <section className="contact section" id="contact">
@@ -99,7 +106,7 @@ const Contact = () => {
 
             <div className="contact_form-div contact_form-area">
               <label htmlFor="" className="contact_form-tag">
-                Nome
+                Seu Projeto
               </label>
               <textarea
                 name="project"
@@ -131,6 +138,7 @@ const Contact = () => {
               </svg>
             </button>
           </form>
+          <ToastContainer autoClose={8000}/>
         </div>
       </div>
     </section>
