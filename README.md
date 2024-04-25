@@ -29,7 +29,7 @@ O [Levid Lima Portfolio Website](https://levidlimawebportfolio.vercel.app/) é u
 * Clone o repositório para sua máquina local.
 * Navegue até o diretório do projeto.
 * Execute `npm install` para instalar as dependências.
-* Execute npm start para iniciar o servidor de desenvolvimento.
+* Execute `npm start` para iniciar o servidor de desenvolvimento.
 * Acesse o website através do navegador no endereço local fornecido.
 
 
