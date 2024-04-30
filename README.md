@@ -26,7 +26,7 @@ O [Levid Lima Portfolio Website](https://levidlimawebportfolio.vercel.app/) é u
 
 ### Instruções de Instalação e Uso:
 
-* Clone o repositório para sua máquina local atravéz do código `git clone (copie e cole o link do meu repositório)`.
+* Clone o repositório para sua máquina local atravéz do código `git clone (link do repositório)`.
 * Navegue até o diretório do projeto.
 * Execute `npm install` para instalar as dependências.
 * Execute `npm start` para iniciar o servidor de desenvolvimento.
