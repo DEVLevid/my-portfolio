@@ -1,7 +1,7 @@
 # Meu Portifolio Pessoal
 
 ### Descrição:
-O [Levid Lima Portfolio Website](https://levidlimawebportfolio.vercel.app/) é um website pessoal desenvolvido para apresentar de forma elegante e interativa os trabalhos, habilidades e conquistas. Este projeto foi construído utilizando as tecnologias modernas de desenvolvimento web, incluindo JavaScript, CSS e HTML, com a poderosa biblioteca ReactJS.
+O [Levid Lima Portfolio Website](https://levidlimawebportfolio.vercel.app/) é um website pessoal desenvolvido para apresentar de forma elegante e interativa os trabalhos, habilidades e conquistas. Este projeto foi construído utilizando as tecnologias modernas de desenvolvimento web, incluindo JavaScript, CSS3 e HTML5, com a poderosa biblioteca ReactJS.
 
 ![image](https://github.com/DEVLevid/my-portfolio/assets/120687641/89c2dcd9-2afc-43c0-8b31-18e189bfb80d)
 
