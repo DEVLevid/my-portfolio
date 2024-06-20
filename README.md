@@ -23,16 +23,3 @@ O [Levid Lima Portfolio Website](https://levidlimawebportfolio.vercel.app/) é u
 - ReactJS: A biblioteca React foi escolhida para criar uma interface de usuário dinâmica e eficiente, facilitando a construção de componentes reutilizáveis.
 
 - JavaScript, CSS e HTML: Essas tecnologias fundamentais foram utilizadas para criar uma base sólida, garantindo um código bem estruturado e um design visualmente atraente.
-
-### Instruções de Instalação e Uso:
-
-* Clone o repositório para sua máquina local atravéz do código `git clone (link do repositório)`.
-* Navegue até o diretório do projeto.
-* Execute `npm install` para instalar as dependências.
-* Execute `npm start` para iniciar o servidor de desenvolvimento.
-* Acesse o website através do navegador no endereço local fornecido.
-
-
-
-
-
