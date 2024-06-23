@@ -17,9 +17,3 @@ O [Levid Lima Portfolio Website](https://levidlimawebportfolio.vercel.app/) é u
 - Página de Conquistas e Reconhecimentos: Uma seção dedicada destaca as conquistas e reconhecimentos mais significativos ao longo da carreira, proporcionando um contexto valioso sobre suas realizações profissionais.
 
 - Layout Moderno e Intuitivo: O design limpo e moderno do website oferece uma navegação intuitiva, permitindo que os visitantes explorem facilmente o conteúdo.
-
-### Tecnologias Utilizadas:
-
-- ReactJS: A biblioteca React foi escolhida para criar uma interface de usuário dinâmica e eficiente, facilitando a construção de componentes reutilizáveis.
-
-- JavaScript, CSS e HTML: Essas tecnologias fundamentais foram utilizadas para criar uma base sólida, garantindo um código bem estruturado e um design visualmente atraente.
