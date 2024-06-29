@@ -5,7 +5,6 @@ O [Levid Lima Portfolio Website](https://levidlimawebportfolio.vercel.app/) é u
 
 ![image](https://github.com/DEVLevid/my-portfolio/assets/120687641/89c2dcd9-2afc-43c0-8b31-18e189bfb80d)
 
-
 ### Recursos Destacados:
 
 - Portfólio Visualmente Atraente: Uma galeria interativa exibe os projetos mais relevantes, proporcionando uma visão detalhada dos trabalhos desenvolvidos.
