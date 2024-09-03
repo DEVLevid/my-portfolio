@@ -16,4 +16,3 @@ O [Levid Lima Portfolio Website](https://levidlimawebportfolio.vercel.app/) é u
 - Página de Conquistas e Reconhecimentos: Uma seção dedicada destaca as conquistas e reconhecimentos mais significativos ao longo da carreira, proporcionando um contexto valioso sobre suas realizações profissionais.
 
 - Layout Moderno e Intuitivo: O design limpo e moderno do website oferece uma navegação intuitiva, permitindo que os visitantes explorem facilmente o conteúdo.
-
